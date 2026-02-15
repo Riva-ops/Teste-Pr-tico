@@ -1,2 +1,2 @@
-# Teste-Pr-tico
+# Teste-Prático
 Esse é um sistema de votação para saber onde os profissionais irão almoçar.
